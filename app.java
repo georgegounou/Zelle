@@ -12,3 +12,4 @@ then
 echo "The price is good for the business"
 echo "Please deliver the product"
 fi 
+#This is the end of the code
