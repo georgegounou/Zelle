@@ -6,3 +6,4 @@ echo "what is your name"
   echo "Please enter your pin"
   read -s pin 
   echo "Thanks you entered a valid pin"
+# The code has ended at this point
